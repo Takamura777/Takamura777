@@ -1,4 +1,4 @@
-## Hi there 👋
+## Сәлем, менің атым Кеңесбек Ринат. Мен бағдарламалауға қызығатын студентпін. Мысалы, Java, Html, Css, C++, Javascript т.б. 
 
 <!--
 **Takamura777/Takamura777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
